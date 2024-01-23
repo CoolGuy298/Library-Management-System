@@ -1,0 +1,16 @@
+insert into genre (genre_id, genre_name) values 
+    (1, 'Biography & Memoir'),
+    (2, 'Children''s Books'),
+    (3, 'Classics'),
+    (4, 'Cooking'),
+    (5, 'Fiction'),
+    (6, 'Historical Fiction'),
+    (7, 'History'),
+    (8, 'Humor'),
+    (9, 'Literary Fiction'),
+    (10, 'Mystery & Suspense'),
+    (11, 'Nonfiction'),
+    (12, 'Poetry'),
+    (13, 'Romance'),
+    (14, 'Sci-Fi & Fantasy'),
+    (15, 'Teen & Young Adult');
